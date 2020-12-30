@@ -5,7 +5,7 @@ description:        "Site description"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/saitama.png'
-background:         'assets/img/wallpaper.jpg'
+background:         'assets/img/wallpaper.gif'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                //mahirchow.github.io
@@ -37,14 +37,14 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              daiansask@gmail.com
 twitter:            username
 facebook:           username
-github-url:         https://github.com/mahirchow
+github-url:         mahirchow
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          mahirchow
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
