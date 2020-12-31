@@ -1,9 +1,9 @@
 # Site
 title:              Mahir Chowdhury
-bio:                'This is my portfolio that I will use to showcase my resume and other public projects.'
-description:        "Site description"
+bio:                'Hello, I am currently an electrical engineering student. I like coding and do many cool projects when I have free time.'
+description:        "Electrical Engineering Student"
 reading_time:       true
-words_per_minute:   200
+words_per_minute:   300
 logo:               'assets/img/saitama.png'
 background:         'assets/img/wallpaper.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+# disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -50,7 +50,7 @@ instagram:          mahirchow
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              1bit2bytes
+# steam:              1bit2bytes
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
