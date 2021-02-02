@@ -1,6 +1,6 @@
 # Site
 title: Mahir Chowdhury
-bio: "Hello, I am currently an electrical engineering student. I like coding and do many cool projects when I have free time."
+bio: "Hello, I am currently an electrical engineering student. I like coding and do many cool projects when I have free time. Feel free to reach me at daiansask@gmail.com"
 description: "Electrical Engineering Student"
 reading_time: true
 words_per_minute: 300
@@ -8,7 +8,8 @@ logo: "assets/img/saitama.png"
 background: "assets/img/wallpaper.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: //mahirchow.github.io #//localhost:4000
+# url: //mahirchow.github.io
+url: //localhost:4000
 
 # Jekyll
 permalink: /:title/
@@ -37,7 +38,7 @@ sass:
 #ad-client:
 #ad-slot:
 #bing-verify:
-email: daiansask@gmail.com
+# email: daiansask@gmail.com
 # twitter:            username
 # facebook:           username
 github-url: mahirchow
@@ -61,6 +62,7 @@ instagram: mahirchow
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+# resume: mahirchow
 
 # Gems
 gems:
