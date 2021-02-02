@@ -1,29 +1,29 @@
 # Site
-title:              Mahir Chowdhury
-bio:                'Hello, I am currently an electrical engineering student. I like coding and do many cool projects when I have free time.'
-description:        "Electrical Engineering Student"
-reading_time:       true
-words_per_minute:   300
-logo:               'assets/img/saitama.png'
-background:         'assets/img/wallpaper.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                //mahirchow.github.io
+title: Mahir Chowdhury
+bio: "Hello, I am currently an electrical engineering student. I like coding and do many cool projects when I have free time."
+description: "Electrical Engineering Student"
+reading_time: true
+words_per_minute: 300
+logo: "assets/img/saitama.png"
+background: "assets/img/wallpaper.jpg"
+tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
+locale: en_US
+url: //localhost:4000 #//mahirchow.github.io
 
 # Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+mathjax: true
 sass:
-  sass_dir:         _sass
-  style:            compressed
+  sass_dir: _sass
+  style: compressed
 
 # Comments
 # disqus_shortname:   taylantatli
@@ -31,20 +31,20 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
+#plus:            #username
+#analytics:
+#verify:
+#ad-client:
+#ad-slot:
 #bing-verify:
-email:              daiansask@gmail.com
+email: daiansask@gmail.com
 # twitter:            username
 # facebook:           username
-github-url:         mahirchow
+github-url: mahirchow
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          mahir-daian-chowdhury
+linkedin: mahir-daian-chowdhury
 #xing:              username
-instagram:          mahirchow
+instagram: mahirchow
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -70,7 +70,21 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+  base_url: https://github.com
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+exclude:
+  [
+    README.md,
+    Gemfile,
+    Gemfile.lock,
+    node_modules,
+    gulpfile.js,
+    package.json,
+    _site,
+    src,
+    vendor,
+    CNAME,
+    LICENSE,
+    Rakefile,
+  ]
