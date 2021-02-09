@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="//localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="//localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="//localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-07T16:40:58-05:00</updated><id>//localhost:4000/</id><title type="html">Mahir Chowdhury</title><subtitle>Electrical Engineering Student</subtitle><entry><title type="html">Whiteboard</title><link href="//localhost:4000/whiteboard/" rel="alternate" type="text/html" title="Whiteboard" /><published>2020-11-29T00:00:00-05:00</published><updated>2020-11-29T00:00:00-05:00</updated><id>//localhost:4000/whiteboard</id><content type="html" xml:base="//localhost:4000/whiteboard/">&lt;p&gt;&lt;a href=&quot;https://github.com/mahirchow/Whiteboard&quot; class=&quot;btn btn-primary&quot;&gt;Visit Github Repo&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="//localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="//localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="//localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-08T21:13:53-05:00</updated><id>//localhost:4000/</id><title type="html">Mahir Chowdhury</title><subtitle>Electrical Engineering Student</subtitle><entry><title type="html">Whiteboard</title><link href="//localhost:4000/whiteboard/" rel="alternate" type="text/html" title="Whiteboard" /><published>2020-11-29T00:00:00-05:00</published><updated>2020-11-29T00:00:00-05:00</updated><id>//localhost:4000/whiteboard</id><content type="html" xml:base="//localhost:4000/whiteboard/">&lt;p&gt;&lt;a href=&quot;https://github.com/mahirchow/Whiteboard&quot; class=&quot;btn btn-primary&quot;&gt;Visit Github Repo&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;whiteboard-student-improvement-application&quot;&gt;Whiteboard (Student Improvement Application)&lt;/h1&gt;
 &lt;p&gt;This application was initially developed for the Windsor Engineering Competition of 2020 by team No-Name (Mahir Chowdhury, Ahmad Ali, Ghenwa Altabbaa). The theme for this competition was to create a study enhancement application.&lt;/p&gt;
@@ -43,7 +43,30 @@
   &lt;li&gt;Create virtual environment (optional)&lt;/li&gt;
   &lt;li&gt;pip install requirements.txt&lt;/li&gt;
   &lt;li&gt;run the main.py file through your terminal&lt;/li&gt;
-&lt;/ul&gt;</content><category term="python" /><category term="qt" /><category term="pandas" /><summary type="html">A student improvement desktop application designed to aid students with their studying.</summary></entry><entry><title type="html">Covid-19 Global</title><link href="//localhost:4000/covid19-global/" rel="alternate" type="text/html" title="Covid-19 Global" /><published>2020-07-07T00:00:00-04:00</published><updated>2020-07-07T00:00:00-04:00</updated><id>//localhost:4000/covid19-global</id><content type="html" xml:base="//localhost:4000/covid19-global/">&lt;p&gt;&lt;a href=&quot;https://github.com/mahirchow/COVID-19-GLOBAL&quot; class=&quot;btn btn-info&quot;&gt;Visit Github Repo&lt;/a&gt;
+&lt;/ul&gt;</content><category term="python" /><category term="qt" /><category term="pandas" /><summary type="html">A student improvement desktop application designed to aid students with their studying.</summary></entry><entry><title type="html">Directory Sweeper</title><link href="//localhost:4000/directory-sweeper/" rel="alternate" type="text/html" title="Directory Sweeper" /><published>2020-09-27T00:00:00-04:00</published><updated>2020-09-27T00:00:00-04:00</updated><id>//localhost:4000/directory-sweeper</id><content type="html" xml:base="//localhost:4000/directory-sweeper/">&lt;p&gt;&lt;a href=&quot;https://github.com/mahirchow/Directory-Sweeper&quot; class=&quot;btn btn-primary&quot;&gt;Visit Github Repo&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GBd65n8Dnss&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;inspiration&quot;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;My folders are always messy. That’s why I decided to program a solution to this problem.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-it-does&quot;&gt;What it does&lt;/h2&gt;
+&lt;p&gt;When you start the program, it asks for a cluttered directory to organize. Once you click it, it’ll immediately begin organizing the directory. It will create an organized folder and within it, it’ll have a folder for every file type [Text Files, Video Files, Image Files, etc].&lt;/p&gt;
+
+&lt;h2 id=&quot;how-i-built-it&quot;&gt;How I built it&lt;/h2&gt;
+&lt;p&gt;This software was programmed with Python and Qt for Python.&lt;/p&gt;
+
+&lt;h2 id=&quot;challenges-i-ran-into&quot;&gt;Challenges I ran into&lt;/h2&gt;
+&lt;p&gt;Not many other than having to manually make long lists of file extension types.&lt;/p&gt;
+
+&lt;h2 id=&quot;accomplishments-that-im-proud-of&quot;&gt;Accomplishments that I’m proud of&lt;/h2&gt;
+&lt;p&gt;This is a working software that can be used on any platform. I’m proud that this can be used right away by people.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-i-learned&quot;&gt;What I learned&lt;/h2&gt;
+&lt;p&gt;Learned a bit more about the shutil library.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next-for-folder-organizer&quot;&gt;What’s next for Folder Organizer&lt;/h2&gt;
+&lt;p&gt;Maybe I’ll make a better user interface and more customizability so users can customize how their folders are organized.&lt;/p&gt;</content><category term="python" /><category term="qt" /><summary type="html">A utility tool which organizes all the files in a directory.</summary></entry><entry><title type="html">Covid-19 Global</title><link href="//localhost:4000/covid19-global/" rel="alternate" type="text/html" title="Covid-19 Global" /><published>2020-07-07T00:00:00-04:00</published><updated>2020-07-07T00:00:00-04:00</updated><id>//localhost:4000/covid19-global</id><content type="html" xml:base="//localhost:4000/covid19-global/">&lt;p&gt;&lt;a href=&quot;https://github.com/mahirchow/COVID-19-GLOBAL&quot; class=&quot;btn btn-info&quot;&gt;Visit Github Repo&lt;/a&gt;
 &lt;a href=&quot;https://devpost.com/software/covid-19-global&quot; class=&quot;btn btn-info&quot;&gt;Visit Devpost&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;inspiration&quot;&gt;Inspiration:&lt;/h1&gt;
 
