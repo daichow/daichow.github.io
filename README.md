@@ -1,10 +1,12 @@
-<h1 align="center">Hey! My name is Mahir Chow</h1>
+<h1 align="center">Hey! My name is Mahir Chowdhury</h1>
 <p align="center">
   <img width="500" height="280" src="https://github.com/mahirchow/mahirchow/blob/main/okabe_rin.gif">
 </p>
 <h3 align="center">You know who I am.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirchow&label=Profile%20views&color=0e75b6&style=flat" alt="mahirchow" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahirchow&label=Profile%20views&color=5288D7" alt="mahirchow" /> </p>
+
+<hr>
 
 - 🔭 I’m currently working on [April (an ai desktop chatbot/virtual assistant)](https://github.com/mahirchow/April)
 
@@ -20,15 +22,75 @@
 
 - ⚡ Fun fact **I like making moe software.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mahirchow" target="blank"><img align="center" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=300" alt="mahirchow" height="30" width="40" /></a>
-<a href="https://discord.gg/Emsee#8146" target="blank"><img align="center" src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" alt="Emsee#8146" height="30" width="40" /></a>
+<hr>
+
+<h3  align="center">📫 Reach me on</h3>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/mahir-daian-chowdhury/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mahirchow.io@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin1C00ff00" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahirchow&show_icons=true&locale=en&layout=compact&bg_color=1C00ff00&text_color=fa9632&icon_color=fa9632&title_color=fa9632&hide_border=true" alt="mahirchow" /></p>
+<h3 align="center">💻 Programming Languages:</h3>
+<p align="center">
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahirchow&show_icons=true&locale=en&bg_color=1C00ff00&text_color=fa9632&icon_color=fa9632&title_color=fa9632&hide_border=true" alt="mahirchow" /></p>
+<hr>
+
+<h3 align="center">📚 Libraries and Frameworks:</h3>
+<p align="center">
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+<img alt="QT" src="https://img.shields.io/badge/QT for Python-%41CD52.svg?&style=for-the-badge&logo=qt&logoColor=white" />
+  <img alt="Discord.py" src="https://img.shields.io/badge/Discord.py-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+<hr>
+
+<h3 align="center">🧰 Developer Tools:</h3>
+<p align="center">
+<img alt="Jupyter Notebooks" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white" />  
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Linux Mint" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=linux-mint&logoColor=white" />
+</p>
+
+<hr>
+
+<h3 align="center">💼 Office Tools:</h3>
+<p align="center">
+<img alt="MS Word" src="https://img.shields.io/badge/MS%20Word-2B579A.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white" />
+<img alt="MS Excel" src="https://img.shields.io/badge/MS%20Excel-217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img alt="MS Powerpoint" src="https://img.shields.io/badge/MS%20Powerpoint-B7472A.svg?&style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+</p>
+
+<hr>
+
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mahirchow&show_icons=true&theme=vision-friendly-dark">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirchow&layout=compact&theme=vision-friendly-dark" />
+  </a>
+</p>
+
+<hr>
+
+<h2  align="center">💻 Check Out My Pinned Repos Below ⬇️ </h2>
