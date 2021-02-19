@@ -92,5 +92,3 @@
 </p>
 
 <hr>
-
-<h2  align="center">💻 Check Out My Pinned Repos Below ⬇️ </h2>
