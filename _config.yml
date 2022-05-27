@@ -1,6 +1,6 @@
 # Site
 title: Mahir Chowdhury
-bio: "Hey! I am currently studying BASc. Electrical Engineering at UWindsor wanting to pursue further study in deep learning/robotics. I love doing projects in my free time so be sure to check out what I've been up to!"
+bio: "Hey! I am currently studying BASc. Electrical Engineering at UWindsor wanting to pursue further study in robotics and drones. I love doing projects in my free time so be sure to check out what I've been up to!"
 description: "Electrical Engineering Student"
 reading_time: true
 words_per_minute: 300
@@ -8,7 +8,7 @@ logo: "assets/img/saitama.png"
 background: "assets/img/wallpaper.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: //mahirchow.github.io
+url: //daichow.github.io
 # url: //localhost:4000
 
 # Jekyll
@@ -45,7 +45,7 @@ github-url: mahirchow
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin: mahir-daian-chowdhury
 #xing:              username
-instagram: mahirchow
+#instagram: mahirchow
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
