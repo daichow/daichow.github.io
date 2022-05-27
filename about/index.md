@@ -12,23 +12,21 @@ comments: false
 
 <h3 align="center">You know who I am.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahirchow&label=Profile%20views&color=5288D7" alt="mahirchow" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=daichow&label=Profile%20views&color=5288D7" alt="daichow" /> </p>
 
 <hr>
 
-- 🔭 I’m currently working on [April (an ai desktop chatbot/virtual assistant)](https://github.com/mahirchow/April)
+- 🔭 I’m currently working on [April (an ai desktop chatbot/virtual assistant)](https://github.com/daichow/April)
 
 - 🌱 I’m learning **Tensorflow and Machine Learning**
 
-- 👨‍💻 My best projects are available at [https://mahirchow.github.io/projects/](https://daichow.github.io/projects/)
+- 👨‍💻 My best projects are available at [https://daichow.github.io/projects/](https://daichow.github.io/projects/)
 
-- 📝 I write articles on [https://mahirchow.github.io/posts/](https://daichow.github.io/posts/)
+- 📝 I write articles on [https://daichow.github.io/posts/](https://daichow.github.io/posts/)
 
 - 📫 How to reach me **mahirchow.io@gmail.com**
 
-- 📄 Know about my experiences [https://mahirchow.github.io](https://daichow.github.io)
-
-- ⚡ Fun fact **I like making moe software.**
+- 📄 Know about my experiences [https://daichow.github.io](https://daichow.github.io)\
 
 <!-- <hr>
 
