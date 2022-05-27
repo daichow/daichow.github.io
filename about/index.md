@@ -20,13 +20,13 @@ comments: false
 
 - 🌱 I’m learning **Tensorflow and Machine Learning**
 
-- 👨‍💻 My best projects are available at [https://mahirchow.github.io/projects/](https://mahirchow.github.io/projects/)
+- 👨‍💻 My best projects are available at [https://mahirchow.github.io/projects/](https://daichow.github.io/projects/)
 
-- 📝 I write articles on [https://mahirchow.github.io/posts/](https://mahirchow.github.io/posts/)
+- 📝 I write articles on [https://mahirchow.github.io/posts/](https://daichow.github.io/posts/)
 
 - 📫 How to reach me **mahirchow.io@gmail.com**
 
-- 📄 Know about my experiences [https://mahirchow.github.io](https://mahirchow.github.io)
+- 📄 Know about my experiences [https://mahirchow.github.io](https://daichow.github.io)
 
 - ⚡ Fun fact **I like making moe software.**
 
@@ -94,10 +94,10 @@ comments: false
 
 <!-- <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mahirchow&show_icons=true&theme=vision-friendly-dark">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=daichow&show_icons=true&theme=vision-friendly-dark">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirchow&layout=compact&theme=vision-friendly-dark" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daichow&layout=compact&theme=vision-friendly-dark" />
   </a>
 </p> -->
 
